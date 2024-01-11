@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saitejavasireddy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 📫 vasireddysaiteja@gmail.com
+- 📫 saitejavasireddypr@gmail.com
 
 <!---
 Saitejavasireddy/Saitejavasireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
